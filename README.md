@@ -34,3 +34,7 @@
 ###### No Windows (Prompt de Comando)
 `c:\> arquivo.exe arquivo.asm`
 
+###Desenvolvedor: 
+| Nome | Usuário GitHub |
+| ---- | -------------- |
+| Victor Hugo Braguim Canto |[vbraguimcanto](https://github.com/vbraguimcanto)|
